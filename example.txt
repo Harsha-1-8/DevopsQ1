@@ -1,1 +1,1 @@
-BugFix modification on the same line
+HotFix modification on the same line
